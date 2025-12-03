@@ -1,7 +1,9 @@
 {
-  "name": "pay2win",
-  "version": "0.1.0",
-  "private": true,
+  "name": "pay2win-frontend",
+  "version": "0.0.1",
+  "description": "Loyalty Reward System UI",
+  "author": "Yahya Sherif El Mansy",
+  "license": "MIT",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
